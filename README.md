@@ -3,7 +3,7 @@
 A modern React component library featuring reusable InputField and DataTable components built with TypeScript, TailwindCSS, and Storybook.
 
 ## 🔗 Links
-- **GitHub Repository**: [[https://github.com/Tabbie05/react-assignment]([https://github.com/Tabbie05/uzence-react-assignment]([https://github.com/Tabbie05/uzence-react-assignment](https://github.com/Tabbie05/uzence-react-assignment)))](https://github.com/Tabbie05/react-assignment)  
+- **GitHub Repository**: [[[https://github.com/Tabbie05/react-assignment](https://github.com/Tabbie05/uzence-react-assignment)t]([https://github.com/Tabbie05/uzence-react-assignment]([https://github.com/Tabbie05/uzence-react-assignment](https://github.com/Tabbie05/uzence-react-assignment)))](https://github.com/Tabbie05/react-assignment)  
 - **Live Storybook**: [https://68a156bd9f0b63ecfb31b29a-hclitpuhlt.chromatic.com/](https://68a156bd9f0b63ecfb31b29a-hclitpuhlt.chromatic.com/)
 
 ## 🚀 Quick Start
