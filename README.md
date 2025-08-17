@@ -151,8 +151,13 @@ Components support both light and dark themes through TailwindCSS's built-in dar
 
 
 ---
-<img width="1900" height="557" alt="image" src="https://github.com/user-attachments/assets/1484ff9a-ca5d-4241-bede-e508e5becb50" />
-<img width="902" height="914" alt="image" src="https://github.com/user-attachments/assets/638e2808-1e5c-46e4-836b-6dd40c2c0b3c" />
+<img width="1878" height="800" alt="image" src="https://github.com/user-attachments/assets/53727689-dba3-48d5-85f9-71cec3896460" />
+<img width="1769" height="842" alt="image" src="https://github.com/user-attachments/assets/d6dbd9bd-d7b8-4a2e-a524-e35c53999ec9" />
+<img width="999" height="856" alt="image" src="https://github.com/user-attachments/assets/ab6932ff-daea-45c9-8205-40485a4d4ed3" />
+<img width="1124" height="816" alt="image" src="https://github.com/user-attachments/assets/320fb903-db7b-493f-ab8b-b0f9dda20dfd" />
+
+
+
 
 
 
